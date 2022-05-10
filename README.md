@@ -1,4 +1,4 @@
-# clean-code-javascript
+# Define Coding Standards & Guidelines
 
 ## Table of Contents
 
